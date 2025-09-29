@@ -1,4 +1,3 @@
-% ProgramParkir.m
 lamaParkir = input('Masukkan lama parkir (jam): ');
 
 if(lamaParkir <= 1)
